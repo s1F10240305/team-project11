@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: left;
+    background-color: #5aa9e6;
+    color: white;
+}
+ul{
+    padding-left: 400px;
+}
