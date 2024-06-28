@@ -1,9 +1,11 @@
 body{
-    background-color: red;
+    font-family: sans-serif;
 }
 h1{
+    text-align: left;
+    background-color: #5aa9e6;
     color: white;
-    }
+}
 ul{
-    color: white;
+    padding-left: 400px;
 }
